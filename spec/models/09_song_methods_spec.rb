@@ -31,6 +31,5 @@ describe 'Song Methods' do
 
       expect(Artist.all.length).to eq(1)
     end
-    
   end
 end
